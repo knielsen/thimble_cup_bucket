@@ -24,3 +24,5 @@ The rules, in brief:
   
 Have fun ;-)
 
+License: GPL, version 2 or any later version. See the file COPYING.
+
